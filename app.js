@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', function() {
-    // Funktionalität für die AR-Funktionalität wird hier implementiert.
-    console.log('AR Funktionalität wird initiiert.');
+    // Functionality for the AR feature will be implemented here.
+    console.log('AR functionality is being initiated.');
 });
