@@ -12,4 +12,4 @@ Danke, dass Sie sich für die Mitwirkung an diesem Projekt interessieren!
 Bitte stellen Sie sicher, dass Sie alle neuen Funktionen testen und dokumentieren.
 
 ## Verhaltenskodex
-Seien Sie respektvoll und unterstützen Sie positive und produktive Interaktionen.
+Seien Sie respektvoll und unterstützen Sie positive und produktive Interaktionen. Stellen Sie sicher, dass Sie auch auf Feedback von anderen Beitragenden eingehen.
