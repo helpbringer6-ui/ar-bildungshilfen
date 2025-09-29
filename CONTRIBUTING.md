@@ -6,7 +6,7 @@ Danke, dass Sie sich für die Mitwirkung an diesem Projekt interessieren!
 1. Forken Sie das Repository.
 2. Erstellen Sie einen neuen Branch für Ihre Änderungen.
 3. Nehmen Sie Ihre Änderungen vor.
-4. Testen Sie Ihre Änderungen.
+4. Testen Sie Ihre Änderungen ausführlich und stellen Sie sicher, dass alle Tests bestanden werden.
 5. Erstellen Sie eine Pull-Anfrage.
 
 Bitte stellen Sie sicher, dass Sie alle neuen Funktionen testen und dokumentieren.
