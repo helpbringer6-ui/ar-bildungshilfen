@@ -22,7 +22,7 @@ main {
 footer {
     text-align: center;
     margin-top: 20px;
-    background-color: #4CAF50; /* Added background color */
-    color: white; /* Ensured text color is readable */
+    background-color: #4CAF50;
+    color: white;
     padding: 10px 0;
 }
